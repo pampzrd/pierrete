@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning <i><b>HTML, CSS, JAVASCRIPT, C LANGUAGE.</b></i>
+- 🔭 I’m currently working on <i><b>HTML, CSS</b> </i>
+- 📫 Email- pamrod100@gmail.com | LinkedIn- https://bityli.com/MfasX
+- 🎨 Portfolio- https://www.artstation.com/pamrod
+### That's all folks! 👋
+<!--
+**pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 <!--
 **pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
