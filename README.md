@@ -6,7 +6,7 @@
 - 🎨 Portfolio- https://www.artstation.com/pamrod
 ### That's all folks! 👋
 
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)
 
 
 
