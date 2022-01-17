@@ -17,6 +17,8 @@
 
 
 <!--
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
+
 **pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //1400x425 banner do github Vou usar 1400x222
 //pexels imagens royalty free
