@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning <i><b>HTML, CSS, JAVASCRIPT, C LANGUAGE.</b></i>
 - 🔭 I’m currently working on <i><b>HTML, CSS</b> </i>
-- 📫 [Email](pamrod100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/?target=_blank)
+- 📫 [Email](mailto:pamrod100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/?target=_blank)
 - 🎨 [ArtStation](https://www.artstation.com/pamrod)
 ### That's all folks! 👋
 
@@ -11,7 +11,9 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
+<!-- Usar "mailto:" antes do email para encaminhar para a caixa de entrada/mensagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
  -->
 
 
