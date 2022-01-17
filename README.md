@@ -5,9 +5,21 @@
 - 📫 Email- pamrod100@gmail.com | LinkedIn- https://bityli.com/MfasX
 - 🎨 Portfolio- https://www.artstation.com/pamrod
 ### That's all folks! 👋
+
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
+
+
+
+
+
+
+
+
+
 <!--
 **pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+//1400x425 banner do github Vou usar 1400x222
+//pexels imagens royalty free
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
