@@ -8,7 +8,7 @@
 
 ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
 
 
 
@@ -17,7 +17,8 @@
 
 
 <!--
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
+//STATUS ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
+//LINGUAGENS [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //1400x425 banner do github Vou usar 1400x222
