@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning <i><b>HTML, CSS, JAVASCRIPT, C LANGUAGE.</b></i>
 - 🔭 I’m currently working on <i><b>HTML, CSS</b> </i>
-- 📫 [Email](mailto:pamrod100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/) 
+- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/) 
 - 🎨 [ArtStation](https://www.artstation.com/pamrod)
 ### That's all folks! 👋
 
