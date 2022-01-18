@@ -6,6 +6,9 @@
 ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
 ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
 
+
+
+ 
 # Oi! Eu sou a Pam! 👋 
 ### Hi! I'm Pam! 👋
 
@@ -15,6 +18,10 @@
 - 🎨 [ArtStation](https://www.artstation.com/pamrod "Faça arte comigo")
 ### That's all folks! 👋
 </div>
+<!-- Contador de visitas-->
+ <a href="https://github.com/pierrete/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pierrete">
+</a>
  <!--/div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
@@ -47,6 +54,14 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 ===== Códigos úteis de terceiros =====
+
+ 
+
+//FAZ O CONTADOR DE VISITAS <a href="https://github.com/pierrete/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pierrete">
+</a>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
