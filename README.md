@@ -6,8 +6,6 @@
 ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
 ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
 
-
- 
 # Oi! Eu sou a Pam! 👋 
 ### Hi! I'm Pam! 👋
 
