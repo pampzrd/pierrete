@@ -1,5 +1,4 @@
 <!---<div align="center">--->
- <div align="center">
  <div>
  
 ![banner github](bannergithub.png)
@@ -7,13 +6,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+:+Web+e+Games">
 </p>
-</div>
-
-<div>
-<a href="https://github.com/pierrete">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
-</div>             
+ 
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
+![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
 
 <div>
  <!--TELEGRAM-->
@@ -21,66 +16,8 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
 
-<<<<<<< HEAD
 ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl)
 ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
-=======
- 
- <!--EMAIL-->
- <a href="mailto:pamrod100@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-  <!--DISCORD  -->
-  <a href="https://discord.com/@anemona#0150">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  </div>
-  <div>
-<!--REDDIT-->
-  <a href="https://www.reddit.com/user/pengnana">
-   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-   </a>
-   <!--LINKEDIN-->
-    <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   
-[![artstation](artbo.png)](https://www.artstation.com/pamrod)
-
- 
-  ### That's all folks! 👋
- 
-   
-</div>
- 
- <div>
-  
-  
-  ## Linguagens em progresso:
-  <p>
-   <!--HTML-->
-   
-   ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-   
-     
-   <!--CSS  ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)-->
-   
-  
-   
-<!--JAVASCRIPT  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
-   
-   
-   
-   <!--C  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
-   
-  
-   
-   <!--MARKDOWN ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)-->
-   
-   
-   
-   
->>>>>>> 1b90a4af4ba8ff8ffc00ed2f4f59a1acf32f3466
 
  
   <!--DEEZER
@@ -101,8 +38,6 @@
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
 </a>
-  
- </div>
  <!--/div>
 
 <!-- 
