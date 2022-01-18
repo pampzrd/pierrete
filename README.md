@@ -9,8 +9,29 @@
 ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
 ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
 
+<div>
+ <!--TELEGRAM-->
+ <a href="https://t.me/ppz93">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
+ </a>
 
+ 
+ <!--EMAIL-->
+ <a href="mailto:pamrod100@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  
+  <!--DISCORD  -->
+  <a href="https://discord.com/channels/@anemona#0150">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
+  </div>
+  <div>
+<!--REDDIT-->
+  <a href="https://www.reddit.com/user/pengnana">
+   <img src="https://aleen42.github.io/badges/src/reddit.svg">
+  
+  </div>
+ 
  
 # Oi! Eu sou a Pam! 👋 
 ### Hi! I'm Pam! 👋
@@ -57,6 +78,11 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 ===== Códigos úteis de terceiros =====
+Padrão HTML
+ LINK <a href="https://t.me/ppz93">
+ LINK IMG <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
+ FECHA LINK E IMG </a>
+
 
 //EXEMPLO DE TABELA COM ICONES
 ## My Skill Set  
