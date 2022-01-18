@@ -35,9 +35,8 @@
     <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-
- 
-  [![artstation](artbo.png)](https://www.artstation.com/pamrod)
+   
+[![artstation](artbo.png)](https://www.artstation.com/pamrod)
 
  
   ### That's all folks! 👋
