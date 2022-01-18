@@ -34,7 +34,15 @@
     <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   </div>
+
+ 
+  - 🎨 [ArtStation](https://www.artstation.com/pamrod "Faça arte comigo")
+
+ 
+  ### That's all folks! 👋
+ 
+   
+      </div>
  
  <div>
   
@@ -50,7 +58,7 @@
    
 <!--JAVASCRIPT-->
    
-   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    
    <!--C-->
    
@@ -71,16 +79,12 @@
  -->
 
  <div>
- 
-# Oi! Eu sou a Pam! 👋 
-### Hi! I'm Pam! 👋
 
-- 🌱 I’m currently learning <i><b>HTML, CSS, JAVASCRIPT, C LANGUAGE.</b></i>
-- 🔭 I’m currently working on <i><b>HTML, CSS</b> </i>
-<!--- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") -->
-- 🎨 [ArtStation](https://www.artstation.com/pamrod "Faça arte comigo")
-### That's all folks! 👋
+  <!--- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") -->
+
+  
 </div>
+  
 <!-- Contador de visitas-->
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
