@@ -1,7 +1,12 @@
 <!---<div align="center">--->
+ <div align=center> 
  
 ![banner github](bannergithub.png)
 
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl) ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
+
+
+ 
 # Oi! Eu sou a Pam! 👋 
 ### Hi! I'm Pam! 👋
 
@@ -10,8 +15,7 @@
 - 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") 
 - 🎨 [ArtStation](https://www.artstation.com/pamrod "Faça arte comigo")
 ### That's all folks! 👋
-
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl) ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
+</div>
  <!--/div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
