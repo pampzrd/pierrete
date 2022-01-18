@@ -19,26 +19,52 @@
  <!--EMAIL-->
  <a href="mailto:pamrod100@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  
+ </a>
   <!--DISCORD  -->
-  <a href="https://discord.com/channels/@anemona#0150">
+  <a href="https://discord.com/@anemona#0150">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-
+  </a>
   </div>
   <div>
 <!--REDDIT-->
   <a href="https://www.reddit.com/user/pengnana">
-   <img src="https://aleen42.github.io/badges/src/reddit.svg">
-  
-  </div>
+   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+   </a>
+   <!--LINKEDIN-->
+    <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   </div>
  
+ <div align=center>
+  
+  ## Linguagens em progresso:
+  <p>
+   <!--HTML-->
+   
+     <!--CSS-->
+   
+     <!--JAVASCRIPT-->
+   
+   <!--C-->
+   
+  <div>
+ 
+  <!--DEEZER
+  
+[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/pt/profile/3441585584)
+  
+
+ -->
+ </div>
+ <div>
  
 # Oi! Eu sou a Pam! 👋 
 ### Hi! I'm Pam! 👋
 
 - 🌱 I’m currently learning <i><b>HTML, CSS, JAVASCRIPT, C LANGUAGE.</b></i>
 - 🔭 I’m currently working on <i><b>HTML, CSS</b> </i>
-- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") 
+<!--- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") -->
 - 🎨 [ArtStation](https://www.artstation.com/pamrod "Faça arte comigo")
 ### That's all folks! 👋
 </div>
