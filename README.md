@@ -1,4 +1,5 @@
 <!---<div align="center">--->
+ <div align="center">
  <div>
  
 ![banner github](bannergithub.png)
@@ -6,9 +7,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+:+Web+e+Games">
 </p>
- 
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
-![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
+</div>
+
+<div>
+<a href="https://github.com/pierrete">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
+</div>             
 
 <div>
  <!--TELEGRAM-->
@@ -16,10 +21,6 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
 
-<<<<<<< HEAD
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl)
-![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
-=======
  
  <!--EMAIL-->
  <a href="mailto:pamrod100@gmail.com">
@@ -75,7 +76,6 @@
    
    
    
->>>>>>> 1b90a4af4ba8ff8ffc00ed2f4f59a1acf32f3466
 
  
   <!--DEEZER
@@ -96,9 +96,11 @@
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
 </a>
+  
+ </div>
  <!--/div>
 
-<!-- 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
 ________________________________________________________________________
 AVISO:
 
@@ -205,7 +207,6 @@ Padrão HTML
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
  -->
