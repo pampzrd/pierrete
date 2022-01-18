@@ -21,6 +21,10 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
 
+<<<<<<< HEAD
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl)
+![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
+=======
  
  <!--EMAIL-->
  <a href="mailto:pamrod100@gmail.com">
@@ -76,6 +80,7 @@
    
    
    
+>>>>>>> 1b90a4af4ba8ff8ffc00ed2f4f59a1acf32f3466
 
  
   <!--DEEZER
@@ -100,7 +105,7 @@
  </div>
  <!--/div>
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
+<!-- 
 ________________________________________________________________________
 AVISO:
 
@@ -207,6 +212,7 @@ Padrão HTML
 
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
  -->
