@@ -36,19 +36,32 @@
    </a>
    </div>
  
- <div align=center>
+ <div>
   
   ## Linguagens em progresso:
   <p>
    <!--HTML-->
    
-     <!--CSS-->
+   ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+     
+   <!--CSS-->
    
-     <!--JAVASCRIPT-->
+   ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+   
+<!--JAVASCRIPT-->
+   
+   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    
    <!--C-->
    
-  <div>
+   ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+   
+   <!--MARKDOWN-->
+   
+   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+   
+   
+
  
   <!--DEEZER
   
@@ -56,7 +69,7 @@
   
 
  -->
- </div>
+
  <div>
  
 # Oi! Eu sou a Pam! 👋 
