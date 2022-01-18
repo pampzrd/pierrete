@@ -3,7 +3,8 @@
  
 ![banner github](bannergithub.png)
 
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl) ![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
+![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark) 
+![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark)
 
 
  
