@@ -1,4 +1,4 @@
-<!---<div align="center">--->
+<div align="center">
  <div>
  
 ![banner github](bannergithub.png)
@@ -57,7 +57,7 @@
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
 </a>
- <!--/div>
+ </div>
 
 <!-- 
 ________________________________________________________________________
