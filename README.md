@@ -16,9 +16,6 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
 
-![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=nightowl)
-![pierrete Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl)
-
  
   <!--DEEZER
   
@@ -29,7 +26,7 @@
 
  <div>
 
-  <!--- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") -->
+ 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") 
 
   
 </div>
