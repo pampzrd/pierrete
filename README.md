@@ -6,15 +6,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+:+Web+e+Games">
 </p>
- 
- <a href="https://github.com/pierrete">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
- </a>
-<div>
- 
- ## Contato:
- 
+  
  <!--TELEGRAM-->
  <a href="https://t.me/ppz93">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
@@ -34,6 +26,14 @@
  <a href="https://www.artstation.com/pamrod" target="_blank" rel="noopener noreferrer">
  <img src="artbo.png"> 
  </a>
+  <div>
+  <!--STATUS-->
+ <a href="https://github.com/pierrete">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
+   </a></div>
+<div>
+ 
  
  
  ## Linguagens em progresso:
