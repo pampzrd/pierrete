@@ -1,12 +1,17 @@
+<<<<<<< HEAD
 <!---<div align="center">--->
  <div align="center">
+=======
+<div align="center">
+>>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  <div>
  
 ![banner github](bannergithub.png)
  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+:+Web+e+Games">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+iniciante+:+Web+e+Games">
 </p>
+<<<<<<< HEAD
 </div>
 
 <div>
@@ -16,39 +21,45 @@
 </div>             
 
 <div>
+=======
+  
+>>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  <!--TELEGRAM-->
  <a href="https://t.me/ppz93">
- <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
  </a>
 
+<<<<<<< HEAD
  
  <!--EMAIL-->
  <a href="mailto:pamrod100@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+=======
+  <!--GMAIL-->
+ <a href="mailto:pamrod100@gmail.com" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+>>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  </a>
-  <!--DISCORD  -->
-  <a href="https://discord.com/@anemona#0150">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  </div>
-  <div>
-<!--REDDIT-->
-  <a href="https://www.reddit.com/user/pengnana">
-   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-   </a>
+ 
    <!--LINKEDIN-->
-    <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   
-[![artstation](artbo.png)](https://www.artstation.com/pamrod)
-
+ <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+ </a>
  
-  ### That's all folks! 👋
+ <!--ARTSTATION-->
+ <a href="https://www.artstation.com/pamrod" target="_blank" rel="noopener noreferrer">
+ <img src="artbo.png"> 
+ </a>
+  <div>
+  <!--STATUS-->
+ <a href="https://github.com/pierrete">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
+   </a></div>
+<div>
  
-   
-</div>
  
+<<<<<<< HEAD
  <div>
   
   
@@ -77,6 +88,12 @@
    
    
 
+=======
+ 
+ ## Linguagens em progresso:
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+ 
+>>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  
   <!--DEEZER
   
@@ -87,7 +104,6 @@
 
  <div>
 
-  <!--- 📫 [Email](mailto:pamrod100@gmail.com "Fale comigo") | [LinkedIn](https://www.linkedin.com/in/pamela-rodrigues-992024229/ "Conecte comigo") -->
 
   
 </div>
@@ -96,9 +112,13 @@
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
 </a>
+<<<<<<< HEAD
   
  </div>
  <!--/div>
+=======
+ </div>
+>>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
 ________________________________________________________________________
