@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<!---<div align="center">--->
- <div align="center">
-=======
 <div align="center">
->>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  <div>
  
 ![banner github](bannergithub.png)
@@ -11,34 +6,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Dev+iniciante+:+Web+e+Games">
 </p>
-<<<<<<< HEAD
-</div>
-
-<div>
-<a href="https://github.com/pierrete">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
-</div>             
-
-<div>
-=======
   
->>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  <!--TELEGRAM-->
  <a href="https://t.me/ppz93">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
  </a>
 
-<<<<<<< HEAD
- 
- <!--EMAIL-->
- <a href="mailto:pamrod100@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-=======
   <!--GMAIL-->
  <a href="mailto:pamrod100@gmail.com" target="_blank" rel="noopener noreferrer">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
->>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  </a>
  
    <!--LINKEDIN-->
@@ -59,41 +35,10 @@
 <div>
  
  
-<<<<<<< HEAD
- <div>
-  
-  
-  ## Linguagens em progresso:
-  <p>
-   <!--HTML-->
-   
-   ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-   
-     
-   <!--CSS  ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)-->
-   
-  
-   
-<!--JAVASCRIPT  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
-   
-   
-   
-   <!--C  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
-   
-  
-   
-   <!--MARKDOWN ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)-->
-   
-   
-   
-   
-
-=======
  
  ## Linguagens em progresso:
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
  
->>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
  
   <!--DEEZER
   
@@ -112,15 +57,9 @@
  <a href="https://github.com/pierrete/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pierrete">
 </a>
-<<<<<<< HEAD
-  
  </div>
- <!--/div>
-=======
- </div>
->>>>>>> ed74332a4d391a5c4b6b99dc99d869f8c5ebb2a7
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
+<!-- 
 ________________________________________________________________________
 AVISO:
 
@@ -227,6 +166,7 @@ Padrão HTML
 
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
  -->
