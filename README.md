@@ -32,7 +32,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
    </a></div>
   <div>
-    <img src"https://github.com/pierrete/pierrete/blob/main/animation.gif">
+    <a href"https://github.com/pierrete/pierrete/blob/main/animation.gif"></a>
   </div>
 <div>
  
