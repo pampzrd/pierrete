@@ -4,7 +4,7 @@
 ![banner github](bannergithub.png)
  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;Aprendiz+Dev">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
   
  <!--TELEGRAM-->
@@ -26,13 +26,15 @@
  <a href="https://www.artstation.com/pamrod" target="_blank" rel="noopener noreferrer">
  <img src="artbo.png"> 
  </a>
-  <div>
+
   <!--STATUS-->
+<div>
+ 
+   ![gif](animation.gif)
+
  <a href="https://github.com/pierrete">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
-   </a>
-  
-![gif](animation.gif)
+</a>
    
   </div>
 
