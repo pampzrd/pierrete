@@ -29,7 +29,6 @@
   <div>
   <!--STATUS-->
  <a href="https://github.com/pierrete">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=onedark"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
    </a></div>
 <div>
