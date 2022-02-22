@@ -1,8 +1,5 @@
 <div align="center">
  <div>
- 
-![banner github](bannergithub.png)
- 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
