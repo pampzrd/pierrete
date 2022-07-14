@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
   
- <!--TELEGRAM-->
+ <!--TELEGRAM
  <a href="https://t.me/ppz93">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
  </a>
-
+-->
   <!--GMAIL-->
  <a href="mailto:pamrod100@gmail.com" target="_blank" rel="noopener noreferrer">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
