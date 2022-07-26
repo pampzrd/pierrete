@@ -5,7 +5,7 @@
 </p>
   
  <!--TELEGRAM
- <a href="https://t.me/ppz93">
+ <a href="https://t.me/">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
  </a>
 -->
