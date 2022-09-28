@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
   
+  <!--WEBSITE-->
+   	<a href="https://pierrete.github.io">
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noopener noreferrer"> 
+ </a>
  <!--TELEGRAM
  <a href="https://t.me/">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
