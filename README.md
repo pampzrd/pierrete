@@ -7,20 +7,16 @@
 </div>
 <div class="titulo" align="center">
 
-
-## Pamela Rod (Pierrete)   
-
 </div>
 <!--Letreiro-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=569D74&size=22&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
-
-<div class="img" align="center">
-
+<!--
+<div align="center">
 ![img](pierrete.png)
 </div>
-
+-->
 <div class="subtitulo" align="center">
 
 ## Linguagens Favoritas
@@ -33,16 +29,19 @@
 
 ## Sobre mim
 
-<p class="texto" >
-    Sou estudante de Defesa Cibernética, apaixonada por Segurança da Informação e tecnologias que a orbitam.
-Tenho maior interesse nas áreas de Software Desktop, Web e Análise de Malwares. 
+<p class="texto">
+    Sou estudante de Defesa Cibernética, apaixonada por Segurança da Informação e 
+ tecnologias que a orbitam.</p>
+ <p>
+Tenho maior interesse nas áreas de Software 
+ Desktop, Web e Análise de Malwares. 
 </p>
 
 </div>
 
 <div class="subtitulo" align="center">
 
-## Fale Comigo
+## Entre em Contato
 
 
  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pierrete.github.io)[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pamela-rodrigues-992024229/)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/anemona0150/)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/pierrete818/)
