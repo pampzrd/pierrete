@@ -12,11 +12,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=569D74&size=22&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
 </p>
-<!--
+
 <div align="center">
+ 
 ![img](pierrete.png)
 </div>
--->
+
 <div class="subtitulo" align="center">
 
 ## Linguagens Favoritas
