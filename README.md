@@ -1,222 +1,108 @@
-<div align="center">
- <div>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=E9967A&size=25&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
-</p>
-  
- 
- <!--TELEGRAM
- <a href="https://t.me/">
- <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener noreferrer"> 
- </a>
--->
-   <!--WEBSITE-->
- <a href="https://pierrete.github.io" target="_blank" rel="noopener noreferrer">
- <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noopener noreferrer"> 
- </a>
-  
-  <!--GMAIL-->
- <a href="mailto:pamrod100@gmail.com" target="_blank" rel="noopener noreferrer">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
- </a>
- 
-   <!--LINKEDIN-->
- <a href="https://www.linkedin.com/in/pamela-rodrigues-992024229/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
- </a>
- 
- <!--BEHANCE-->
- <a href="https://www.behance.net/pmelarodrigues" target="_blank" rel="noopener noreferrer">
- <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"> 
- </a>
+<div style="text-align: center;background: linear-gradient(135deg,#CCD7C5,#28A575);color:#FFF">
 
-  <!--STATUS-->
-<div>
- 
-   ![gif](animation.gif)
+ <style>
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Satisfy&display=swap');
 
- <a href="https://github.com/pierrete">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=onedark"/>
-</a>
-   
-  </div>
+.titulo
+{
+    font-size:19pt;font-family: 'Satisfy', cursive;;color:#EEFEE4;
+}
+
+.subtitulo{
+    font-size:11pt;font-family: 'Patua One', cursive; color:#063227;align:center;
+}
+
+.texto{
+  display:block;
+  font-family:Arial;
+  max-width:400px;
+  color: black;
+}
+
+.img
+{
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+}
+</style>
+<hr>
+
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.
+
+<div class="titulo">
 
 
+## Pamela Rod (Pierrete)   
 
-<div>
- 
- 
- 
- ## Linguagens Favoritas:
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
- 
- 
-  <!--DEEZER
-  
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/pt/profile/3441585584)
-
-LINKS
-  https://dev.to/envoy_/150-badges-for-github-pnk
-
- -->
-
- <div>
-
-
-  
 </div>
-  
-<!-- Contador de visitas-->
+<!--Letreiro-->
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=12563C&size=22&center=true&vCenter=true&lines=Bem-Vindos+ao+meu+perfil+!;">
+</p>
+
+<div class="img">
+
+![img](pierrete.png)
+</div>
+
+<div class="subtitulo">
+
+## Linguagens Favoritas
+</div>
+
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![PHP](https://img.shields.io/badge/php-passing?style=for-the-badge&logo=php&color=black)
+
+
+<div class="subtitulo" align="center">
+
+## Sobre mim
+
+<p class="texto" >
+    Sou estudante de Defesa Cibernética, apaixonada por Segurança da Informação e tecnologias que a orbitam.
+Tenho maior interesse nas áreas de Software Desktop, Web e Análise de Malwares. 
+</p>
+
+</div>
+
+<div class="subtitulo">
+
+## Fale Comigo
+</div>
+
+ [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pierrete.github.io)[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pamela-rodrigues-992024229/)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/anemona0150/)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/pierrete818/)
+
+<div class="img">
+           
+  ![gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F6d4ebb1873a044d18987507fc09184ef%2Ftenor.gif%3Fitemid%3D14291762&f=1&nofb=1&ipt=7e6ce8e2f0bb0b877a42ab099324c1490d91654cd2a4673c115f9510522cfd35&ipo=images)
+</div>
+
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸¸.*☆*.¸¸.
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pierrete&layout=compact&bg_color=569D74&border_color=51CCB6&title_color=023125&text_color=EEFEE4)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pierrete&background=023125&border=51CCB6&dates=EEFEE4&title_color=569D74&theme=vue-dark)](https://git.io/streak-stats)
+
+
  <a href="https://github.com/pierrete/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pierrete">
+    <img src="https://komarev.com/ghpvc/?username=pierrete&color=28A575&style=for-the-badge">
 </a>
+
  </div>
 
-<!-- 
-________________________________________________________________________
-AVISO:
+<!--
+<div class="subtitulo">
 
-"***" É uma dica/lembrete
-
-"XXX" Significa algo que tentei fazer mas NÃO deu certo (para tentar denovo de outra forma)
-_________________________________________________________________________
-_________________________________________________________________________
-
-======== Anotações de markdown language ========
-
-
-*** Usar "mailto:" antes do email para encaminhar para a caixa de entrada/mensagens
-***Após o link usar um texto entre aspas "texto bebê" faz aparecer a mensagem ao colocar o mouse sobre o link
-
-XXX ?target=blank Tentando abrir o link em nova aba
-
-
-_________________________________________________________________________________
-====== Dicas do perfil ======
-
-
-*** 1400x425 banner do github Vou usar 1400x222
-*** pexels imagens royalty free
-
-
-
-_________________________________________________________________________________
-===== Códigos úteis de terceiros =====
-Padrão HTML
- LINK <a href="https://t.me/ppz93">
- LINK IMG <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
- FECHA LINK E IMG </a>
-
-
-//EXEMPLO DE TABELA COM ICONES
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+## Um repositório bacana !
 </div>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pierrete&repo=--&bg_color=569D74&border_color=51CCB6&show_icons=true&icon_color=51CCB6&title_color=023125&text_color=EEFEE4)](https://github.com/pierrete/dio-lab-open-source) -->
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-</div>
-
-</td></tr></table>  
-
-
-
-
-
-
- //FAZ O LETREIRO LUMINOSO
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Testing+new+stuff+!">
-</p>
-
-//FAZ O CONTADOR DE VISITAS <a href="https://github.com/pierrete/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pierrete">
-</a>
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact&langs_count=7&theme=nightowl"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrete&layout=compact)](https://github.com/pierrete/github-readme-stats)
+  <!-- LINKS
+  https://dev.to/envoy_/150-badges-for-github-pnk
  -->
 
-<!--
-//STATUS ![pierrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrete&show_icons=true&theme=radical)(https://github.com/pierrete/github-readme-stats)
-//LINGUAGENS [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-
-## 1. GitHub Stats![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)--------------------------------------------------------------------
-
-## 2. Most Used Languages![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)--------------------------------------------------------------------
-
-## 3. Contributors Badge<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors"><img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" /></a>Made with [contributors-img](https://contrib.rocks).--------------------------------------------------------------------
-
-## 4. Random Joke Generator## 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)--------------------------------------------------------------------
-
-## 5. Profile View Counter<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>### HITS![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
-
-
-
-__________________________________________________________________________________
-===== Github profile default =====
-
-
-**pierrete/pierrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+________________________________________
+====== Dicas do perfil ======
+*** 1400x425 banner do github Vou usar 1400x222
+*** pexels imagens royalty free
+________________________________________
